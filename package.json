@@ -1,0 +1,36 @@
+{
+  "name": "create-angular-auth-nav",
+  "version": "1.0.0",
+  "description": "A CLI tool to scaffold an Angular application with authentication and navigation features pre-configured.",
+  "main": "cli.js",
+  "bin": {
+    "create-angular-auth-nav": "./cli.js"
+  },
+  "scripts": {
+    "start": "node cli.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/furbo1/create-angular-auth-nav.git"
+  },
+  "keywords": [
+    "angular",
+    "authentication",
+    "navigation",
+    "scaffolding",
+    "cli"
+  ],
+  "author": "Alex Cocan alexcocan@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
+

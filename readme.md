@@ -1,6 +1,6 @@
 # Angular Auth Template with TailwindCSS, Passport, Bcrypt
 
-This project provides a template for quickly setting up an Angular application with register/login functionality, utilizing Passport and Bcrypt for encryption and basic navigation between pages. It incorporates [TailwindCSS](https://tailwindcss.com/) for its modern and responsive styling.
+This CLI tool, `npx create-angular-auth-nav` provides a template for quickly setting up an Angular application with register/login functionality, utilizing Express, Passport and Bcrypt for encryption and basic navigation between pages. It incorporates [TailwindCSS](https://tailwindcss.com/) for its modern and responsive styling.
 
 ![Register Page](/assets/register.jpg "Register page")
 ![Login Page](/assets/login.jpg "Login Page")
@@ -18,7 +18,7 @@ This project provides a template for quickly setting up an Angular application w
 
 To get started with this template, you can clone the repository or use a CLI tool to create a new project:
 
-npx create-angular-auth-nav
+`npx create-angular-auth-nav`
 
 
 ## Installation and Running the Project

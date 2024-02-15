@@ -1,6 +1,6 @@
 {
   "name": "create-angular-auth-nav",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A CLI tool to scaffold an Angular application with authentication and navigation features pre-configured.",
   "main": "cli.js",
   "bin": {

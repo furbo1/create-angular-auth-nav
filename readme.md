@@ -121,3 +121,7 @@ CREATE-ANGULAR-AUTH
 ![Home Page](/assets/contact.jpg "Contact Page")
 ![Register Page](/assets/register.jpg "Register page")
 ![Login Page](/assets/login.jpg "Login Page")
+
+Disclaimer:
+
+This project, [create-angular-auth-nav](https://www.npmjs.com/package/create-angular-auth-nav), is provided as-is without any warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. The use of [create-angular-auth-nav](https://www.npmjs.com/package/create-angular-auth-nav) is entirely at your own risk. The author(s) or contributors shall not be liable for any damages, including but not limited to direct, indirect, incidental, special, consequential, or punitive damages arising out of or in connection with your access to, use of, or reliance on this project. By using [create-angular-auth-nav](https://www.npmjs.com/package/create-angular-auth-nav), you agree to this disclaimer and acknowledge that the project is offered freely for use, modification, and distribution under its specified MIT license, without any obligation for support, maintenance, or updates.

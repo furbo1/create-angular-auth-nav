@@ -1,4 +1,4 @@
-# Angular Auth Template with TailwindCSS, Passport, Bcrypt
+# Create a Fullstack* Angular Auth Navigation Project
 
 This CLI tool, `npx create-angular-auth-nav` provides a template for quickly setting up an Angular application with register/login functionality, utilizing Express, Passport and Bcrypt for encryption and basic navigation between pages. It incorporates [TailwindCSS](https://tailwindcss.com/) for its modern and responsive styling.
 
@@ -125,3 +125,5 @@ CREATE-ANGULAR-AUTH
 Disclaimer:
 
 This project, [create-angular-auth-nav](https://www.npmjs.com/package/create-angular-auth-nav), is provided as-is without any warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. The use of [create-angular-auth-nav](https://www.npmjs.com/package/create-angular-auth-nav) is entirely at your own risk. The author(s) or contributors shall not be liable for any damages, including but not limited to direct, indirect, incidental, special, consequential, or punitive damages arising out of or in connection with your access to, use of, or reliance on this project. By using [create-angular-auth-nav](https://www.npmjs.com/package/create-angular-auth-nav), you agree to this disclaimer and acknowledge that the project is offered freely for use, modification, and distribution under its specified MIT license, without any obligation for support, maintenance, or updates.
+
+*Database is missing from this app as this depends on user's needs.
